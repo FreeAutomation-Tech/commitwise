@@ -6,7 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/FreeAutomation-Tech/commitwise?style=social)](https://github.com/FreeAutomation-Tech/commitwise)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![CI](https://github.com/FreeAutomation-Tech/commitwise/actions/workflows/ci.yml/badge.svg)](https://github.com/FreeAutomation-Tech/commitwise/actions)
 
 ---
 
